@@ -1,0 +1,12 @@
+{
+    "timestamp": "2025-06-08T11:33:14.386020",
+    "sessionId": "39c51e76-72ad-483f-b289-c868c9fafe5f",
+    "ipAddress": "192.168.29.155",
+    "computerName": "N/A (Not accessible from web server)",
+    "featureUsed": "Bulk URL Lookup",
+    "userInput": {
+        "urls": [
+            "554C8D5EB5D6D27E5577BECCFF96A29D"
+        ]
+    }
+}
