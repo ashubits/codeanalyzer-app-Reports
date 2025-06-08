@@ -10,3 +10,24 @@
         ]
     }
 }
+{
+    "timestamp": "2025-06-08T11:34:17.258472",
+    "sessionId": "39c51e76-72ad-483f-b289-c868c9fafe5f",
+    "ipAddress": "192.168.29.155",
+    "computerName": "N/A (Not accessible from web server)",
+    "featureUsed": "Bulk URL Lookup",
+    "userInput": {
+        "urls": [
+            "E3DAAD99FAF4532831DA5CEA48EBD484",
+            "9E8486ECD10CCC3CCDDFD969C0675929",
+            "5570CC3AE86E0FF23D34F6A7451ABCF8",
+            "081B6725BC4E9074B4B6E2F592B28089",
+            "DE69B195D698E560F20819B0F74021AD",
+            "D2259C7E7568A28D455AA0E494F81BEC",
+            "99500D18CD29A3413FD37A84E64DB5F5",
+            "EE3B1FBCCB49A4E9BD4E7D62BDAEC0C8",
+            "94767C479D647927448DE46925FDE272",
+            "3ECEFC813EADB379FDD697AF4F1F3307"
+        ]
+    }
+}
